@@ -1,8 +1,6 @@
-**
-
 ## Java Bike Project
 
-**
+
 	The project is very similar to a simplified "Bidod app".
 The project is OOP, so we have to implement the Elements of OOP.
 We have This class Below to implement here:
